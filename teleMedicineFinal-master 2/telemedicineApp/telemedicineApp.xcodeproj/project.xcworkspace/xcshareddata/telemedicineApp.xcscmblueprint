@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "173B4F9C3AB316810338E8E902664594C9FE3A54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A13550A0D2A8590145DB1EF7F7B673D0DBBE1F3B" : 9223372036854775807,
+    "5BA937A8E89F4624C514B30EEAB385086D58E1DA" : 9223372036854775807,
+    "173B4F9C3AB316810338E8E902664594C9FE3A54" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "70D84E68-5A80-4913-BED5-E3E12A9D3CBA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A13550A0D2A8590145DB1EF7F7B673D0DBBE1F3B" : "telemedicineApp%202\/",
+    "5BA937A8E89F4624C514B30EEAB385086D58E1DA" : "",
+    "173B4F9C3AB316810338E8E902664594C9FE3A54" : "teleMedicineFinal\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "telemedicineApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "telemedicineApp\/telemedicineApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aassha\/teleMedicineFinal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "173B4F9C3AB316810338E8E902664594C9FE3A54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aassha\/teleMedicine2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BA937A8E89F4624C514B30EEAB385086D58E1DA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aassha\/telemedicineApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A13550A0D2A8590145DB1EF7F7B673D0DBBE1F3B"
+    }
+  ]
+}
